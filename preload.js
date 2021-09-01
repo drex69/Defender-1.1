@@ -40,7 +40,7 @@ function preload() {
   myfont = loadFont ('assets/fonts/Computerfont.ttf');
   myfont1 = loadFont ('assets/fonts/Linebeam.ttf');
   //myfont2 = loadFont ('assets/fonts/abduction2002.ttf');
-  myfont2 = loadFont ('assets/fonts/Polybius1981.ttf');
+  //myfont2 = loadFont ('assets/fonts/Polybius1981.ttf');
   //myfont2 = loadFont ('assets/fonts/quadrit.ttf');
 
   //SOUNDS
